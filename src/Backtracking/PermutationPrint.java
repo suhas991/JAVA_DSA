@@ -18,6 +18,5 @@ public class PermutationPrint {
             printPerm(newStr,res+ch);
 
         }
-
     }
 }
